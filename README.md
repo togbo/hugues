@@ -1,2 +1,2 @@
 # hugues
-Etudiant cybersécurité
+Cybersecurity Student, Red Teamer
